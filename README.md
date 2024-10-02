@@ -1,5 +1,6 @@
 # C# Translate API
 Discover the Power of Lingvanex C# free Translation API
+
 Unlock the potential of your applications with Lingvanex Translator, a cutting-edge cloud-based neural machine translation service. It is compatible with any operating system, Lingvanex Translator enables the creation of intelligent, multi-lingual solutions for all supported languages.
 
 With our .net Translation API, you can effortlessly translate both text and HTML pages, enhancing your global reach and communication capabilities. Explore the capabilities of the [Lingvanex Cloud API](https://lingvanex.com/en/translationapi/) and learn more about our [Secure On-Premise Machine Translation](https://lingvanex.com/).
