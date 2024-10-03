@@ -12,7 +12,7 @@ Before using the translation API C# you need to create the [account](https://lin
 You can install the library:
 
 ```
-pip install lingvanex
+npm install lingvanex-js-pkg
 ```
 # Getting the list of languages
 To retrieve the list of languages, perform a GET request with the authentication key as follows:
